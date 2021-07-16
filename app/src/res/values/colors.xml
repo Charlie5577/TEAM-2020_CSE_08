@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#F7F7F7</color>
+
+    <color name="colorPrimaryDark">#303F9F</color>
+
+    <color name="colorAccent">#FF4081</color>-->
+
+    <color name="white">#FFFFFF</color>
+
+    <color name="cv_capture_bg">#55000000</color>
+
+    <color name="profile_item_header_text_color">#4A4A4A</color>
+
+    <color name="profile_item_details_text_color">#774A4A4A</color>
+
+    <color name="color_splash">#F7F7F7</color>
+
+    <color name="color_card">#FDFEFE</color>
+
+    <color name="color_black">#000000</color>
+
+    <color name="color_title">#3B3B98</color>
+
+    <color name="color_desc">#2C3A47</color>
+    <color name="colorPrimary">#F7F7F7</color>
+    <color name="colorPrimaryDark">#F7F7F7</color>
+    <color name="colorAccent">#FBFBFB</color>
+
+</resources>
